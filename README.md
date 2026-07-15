@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHELLO+WORLD%F0%9F%8C%8DI'm+Faizal+Mohammed%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F;A+PASSIONATE+TECH+ENTHUSIAST%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FF000000&width=435&lines=%F0%9F%91%8BHELLO+WORLD%F0%9F%8C%8DI'm+Faizal+Mohammed%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F;A+PASSIONATE+TECH+ENTHUSIAST%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
   <img src="https://github.com/Faizalmohammedn/Faizalmohammedn/blob/main/0.gif?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Faizal%20Mohammed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
