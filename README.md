@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FF000000&width=435&lines=%F0%9F%91%8BHELLO+WORLD%F0%9F%8C%8DI'm+Faizal+Mohammed%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F;A+PASSIONATE+TECH+ENTHUSIAST%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
-  <img src="https://github.com/Faizalmohammedn/Faizalmohammedn/blob/main/4.gif" />
+  <img src="[https://github.com/Faizalmohammedn/Faizalmohammedn/blob/main/4.gif](https://github.com/Faizalmohammedn/Faizalmohammedn/blob/main/3.gif)" />
 </p>
 
 <h3 align="center">
@@ -251,3 +251,11 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Faizalmohammedn&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/Faizalmohammedn?style=social" />
+  <!-- This section is for the view counter -->
+<!-- THANK YOU FOR WATCHING -->
+<div>
+<h2 align="center">View Counter <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/7.gif" width="35px" height="35px"></h2>
+<div align="center">
+ <img src="https://github.com/Faizalmohammedn/Faizalmohammedn/blob/main/4.gif" />
+  </div>
+<!-- End of the README.md file
