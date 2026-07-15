@@ -16,18 +16,38 @@ automating security operations, and building resilient infrastructures with Cybe
 
 ---
 
+```zsh
+root@nova:nodfetch
+```
 
 
-## 🚀 About Me
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img align="left" src="https://github.com/Faizalmohammedn/Faizalmohammedn/blob/main/5.gif" width="155px" alt="Profile GIF" />
+  <pre style="margin: 0; font-size: 14px;">
+--------------------------------------------------------------
+Username : Faizal Mohammed 🛡️
+WhoamI   : Cybersecurity & Risk Specialist 🔐
+Focus    : Cloud Security ☁️ / Network Defense 🌐 / Linux Security 🐧
 
-- 🔐 Passionate about **Cybersecurity, Threat Detection, and Risk Management**
-- ☁️ Specializing in **Cloud Security, Network Security, and Linux Hardening**
-- 🛡️ Experienced in **Vulnerability Assessment, Security Monitoring, and Incident Response**
-- 🐍 Building **Security Automation** solutions using **Python** and **PowerShell**
-- 📚 Continuously expanding my expertise in **Offensive Security, Defensive Security, and Emerging Threats**
-- 🎯 Committed to designing secure, resilient, and scalable infrastructures that protect critical systems and data
+Skills   : 🐍 Python, ⚡ PowerShell, 🐚 Bash, 🖥️ Linux
+Security : 🔍 Threat Detection, 🛡️ Vulnerability Management, 🚨 Incident Response
 
----
+Interest : Cybersecurity 🔐, Cloud Security ☁️, Ethical Hacking 🕵️, 
+           Automation ⚙️, Open Source 🔓
+
+Tools    : SIEM 📊, Nmap 🌐, Wireshark 🦈, Burp Suite 🕸️, 
+           Microsoft Sentinel 🛡️
+
+Loves    : Technology 🚀, Security Research 🔎, Problem Solving 🧩, Learning 📚
+
+Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪, 
+           Open Source Projects 🌍
+
+Learning : Cloud Security ☁️, Threat Hunting 🎯, Digital Forensics 🔬,
+           Security Automation 🤖, Zero Trust Architecture 🔒
+--------------------------------------------------------------
+  </pre>
+</div>
 
 
 
