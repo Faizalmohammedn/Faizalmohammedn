@@ -21,21 +21,19 @@
 <!-- This is the neofetch section-->
 
 ```zsh
-root@lix: Fastfetch
+root@nix: rootfetch
 ```
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img align="left" src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/5.gif" width="155px" alt="Profile GIF" />
   <pre style="margin: 0; font-size: 14px;">
 --------------------------------------------------------------
-Username : Lixdroid-sys 👾
-WhoamI   : College Student 👨‍🎓
-OS       : Arch Linux 🐧 / Custom ROM 📱
-Languages: 🖥️ Bash, 🐍 Python, ⚙️ C, ☕ Java
-Interest : AI 🤖, Linux 🐧, ML 🧠, Bash 🐚, Open Source 🔓
-Loves    : Videogames 🎮, Technology stuff 🚀, Books 📚
-Hobbies  : Gaming 🎮, Coding 👨‍💻, Music 🎧, ROMs 📲
-Learning : Computer Science 💻
+- 🔐 Passionate about **Cybersecurity, Threat Detection, and Risk Management**
+- ☁️ Specializing in **Cloud Security, Network Security, and Linux Hardening**
+- 🛡️ Experienced in **Vulnerability Assessment, Security Monitoring, and Incident Response**
+- 🐍 Building **Security Automation** solutions using **Python** and **PowerShell**
+- 📚 Continuously expanding my expertise in **Offensive Security, Defensive Security, and Emerging Threats**
+- 🎯 Committed to designing secure, resilient, and scalable infrastructures that protect critical systems and data
 --------------------------------------------------------------
   </pre>
 </div>
