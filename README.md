@@ -22,7 +22,7 @@ root@nova:nodfetch
 
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
- <img align="left" src="https://github.com/Faizalmohammedn/Faizalmohammedn/blob/main/5.gif" height="250px" width="180px" alt="Profile GIF" />
+ <img align="left" src="https://github.com/Faizalmohammedn/Faizalmohammedn/blob/main/5.gif" height="500px" width="180px" alt="Profile GIF" />
   <pre style="margin: 0; font-size: 14px;">
 --------------------------------------------------------------
 Username : Faizal Mohammed 🛡️
