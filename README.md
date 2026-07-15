@@ -17,6 +17,8 @@ automating security operations, and building resilient infrastructures with Cybe
 
 ---
 
+
+
 ## 🚀 About Me
 
 - 🔐 Passionate about **Cybersecurity, Threat Detection, and Risk Management**
@@ -27,6 +29,8 @@ automating security operations, and building resilient infrastructures with Cybe
 - 🎯 Committed to designing secure, resilient, and scalable infrastructures that protect critical systems and data
 
 ---
+
+
 
 ## 🌐 Connect With Me
 
@@ -50,7 +54,123 @@ automating security operations, and building resilient infrastructures with Cybe
 
 ---
 
-# 💻 Tech Stack
+
+
+# 💻 Technical Skills
+
+### 🔐 Cybersecurity
+
+<p>
+  <img src="https://img.shields.io/badge/Network_Security-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Risk_Management-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Incident_Response-D32F2F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat_Hunting-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vulnerability_Assessment-2E7D32?style=for-the-badge" />
+</p>
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux"/>
+</p>
+
+### 💻 Programming & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,powershell"/>
+</p>
+
+### 🌐 Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- HTTP/HTTPS
+- VPN
+- VLAN
+- Routing & Switching
+- Firewall Management
+- IDS/IPS
+- Network Traffic Analysis
+
+### 🐧 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows"/>
+</p>
+
+### 🛡️ Security Tools
+
+- Microsoft Sentinel
+- Microsoft Defender XDR
+- Microsoft Defender for Cloud
+- Microsoft Entra ID
+- Microsoft Intune
+- Microsoft Purview
+- Wireshark
+- Nmap
+- Burp Suite
+- Nessus
+- OpenVAS
+- Metasploit
+- OWASP ZAP
+- Wazuh
+- Splunk
+- Kali Linux
+- Autopsy
+- Volatility
+
+### 🔍 Security Operations (SOC)
+
+- SIEM
+- SOAR
+- Log Analysis
+- Threat Intelligence
+- Detection Engineering
+- Security Monitoring
+- Incident Triage
+- Digital Forensics
+- Malware Analysis (Basic)
+
+### 🔒 Identity & Access Management
+
+- Microsoft Entra ID
+- Multi-Factor Authentication (MFA)
+- Conditional Access
+- Privileged Identity Management (PIM)
+- Role-Based Access Control (RBAC)
+- Single Sign-On (SSO)
+
+### ⚙️ DevSecOps & Automation
+
+- Git
+- GitHub
+- Docker
+- CI/CD Security
+- Infrastructure Security
+- Python Automation
+- PowerShell Automation
+- Bash Scripting
+
+### 📚 Security Frameworks
+
+- NIST Cybersecurity Framework (CSF)
+- MITRE ATT&CK
+- CIS Controls
+- OWASP Top 10
+- ISO/IEC 27001
+- Zero Trust Architecture
+- Cyber Kill Chain
+
+### 🛠️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+
+
 
 # 💻 Technical Skills
 
@@ -126,6 +246,9 @@ automating security operations, and building resilient infrastructures with Cybe
 - Zero Trust Architecture
 
 ---
+
+
+
 
 # 🔥 Featured Projects
 
