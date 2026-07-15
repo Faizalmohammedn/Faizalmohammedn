@@ -49,8 +49,8 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
   </pre>
 </div>
 
-
 -
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -186,7 +186,6 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
---
 -
 
 # 🔥 Featured Projects
@@ -203,19 +202,15 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 
 ### ⚙️ Security Automation
 > Automated security tasks and incident response workflows using Python and PowerShell to enhance operational efficiency and reduce response time.
-
---
+> 
 -
-
-
 # <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Faizalmohammedn&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Faizalmohammedn&theme=tokyonight&hide_border=true" />
 </p>
-
----
+-
 <p align="center">
 #<h2 align="center">Contribution Graph <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/7.gif" width="35px" height="35px"></h2>
 </p>
@@ -223,10 +218,7 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizalmohammedn&theme=tokyo-night&hide_border=true"/>
 </p>
-
---
 -
-
 # 🧠 Currently Learning
 
 - 🔐 Cloud Security Engineering (Azure & AWS)
@@ -238,7 +230,7 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 - ⚙️ Python & PowerShell for Security Automation
 - 📚 MITRE ATT&CK, NIST CSF & Zero Trust Security
 
---
+-
 -----------------------------------------------------------
 # 💡 Philosophy
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -252,9 +244,6 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lixdroid-sys/lixdroid-sys/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lixdroid-sys/lixdroid-sys/output/pacman-contribution-graph.svg">
 </picture>
-----------------------------------------------------------------
-
---
 -
 <p align="center">
   <img src="https://img.shields.io/github/followers/Faizalmohammedn?style=social" />
