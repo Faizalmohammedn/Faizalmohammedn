@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 <!-- Banner -->
+<h1 align="center">Hi 👋, I'm Faizal Mohammed</h1>
 <p align="center">
   <img src="https://github.com/Faizalmohammedn/Faizalmohammedn/blob/main/0.gif?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Faizal%20Mohammed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Faizal Mohammed</h1>
 
 <h3 align="center">
 Cybersecurity & Risk Specialist | Cloud, Network & Linux Security | Python/PowerShell Automation
