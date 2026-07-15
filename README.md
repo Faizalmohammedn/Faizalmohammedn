@@ -212,7 +212,8 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 ---
 
 
-# 📈 GitHub Streak
+# <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faizalmohammedn&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Faizalmohammedn&theme=tokyonight&hide_border=true" />
@@ -243,13 +244,21 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 ---
 
 # 💡 Philosophy
-
-> "Security is not a product, but a continuous process of vigilance, resilience, and improvement."
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<!-- This section is for contribution -->
+<h2 align="center">My Contributions 
+  <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/10.gif" width="35px" height="35px">
+</h2>
+<!-- This is responsible for pacman animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lixdroid-sys/lixdroid-sys/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lixdroid-sys/lixdroid-sys/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lixdroid-sys/lixdroid-sys/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faizalmohammedn&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/Faizalmohammedn?style=social" />
   <!-- This section is for the view counter -->
 <!-- THANK YOU FOR WATCHING -->
