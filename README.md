@@ -189,12 +189,6 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 </p>
 
 
-
-
-
-
-
-
 # 🔥 Featured Projects
 
 
@@ -220,8 +214,9 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 </p>
 
 ---
-
-# 📊 Contribution Graph
+<p align="center">
+#<h2 align="center">Contribution Graph <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/7.gif" width="35px" height="35px"></h2>
+</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizalmohammedn&theme=tokyo-night&hide_border=true"/>
@@ -263,7 +258,6 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
   <!-- This section is for the view counter -->
 <!-- THANK YOU FOR WATCHING -->
 <div>
-<h2 align="center">View Counter <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/7.gif" width="35px" height="35px"></h2>
   <h2 align="center">Thank you for visiting!  <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/8.gif" width="35px" height="35px"></h2>
 <div align="center">
  <img src="https://github.com/Faizalmohammedn/Faizalmohammedn/blob/main/4.gif" />
