@@ -192,26 +192,6 @@ automating security operations, and building resilient infrastructures with Cybe
 > Automated security tasks and incident response workflows using Python and PowerShell to enhance operational efficiency and reduce response time.
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Faizalmohammedn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizalmohammedn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Faizalmohammedn&theme=tokyonight&hide_border=true"
-  />
-</p>
----
 
 # 📈 GitHub Streak
 
