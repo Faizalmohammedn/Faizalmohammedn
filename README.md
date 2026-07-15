@@ -207,7 +207,7 @@ automating security operations, and building resilient infrastructures with Cybe
 # 📈 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Faizalmohammedn&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Faizalmohammedn&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -220,13 +220,14 @@ automating security operations, and building resilient infrastructures with Cybe
 
 ---
 
+
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Faizalmohammedn&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizalmohammedn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
-
 ---
+
 
 # 🧠 Currently Learning
 
