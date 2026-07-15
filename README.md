@@ -16,12 +16,12 @@ Cybersecurity & Risk Specialist | Cloud, Network & Linux Security | Python/Power
 automating security operations, and building resilient infrastructures with Cybersecurity, Cloud Security, Network Defense, Linux, and Python/PowerShell.
 </p>
 
--
--
+---
+
 ```zsh
 root@nova:nodfetch
 ```
--
+---
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
  <img align="left" src="https://github.com/Faizalmohammedn/Faizalmohammedn/blob/main/5.gif" height="500px" width="180px" alt="Profile GIF" />
@@ -49,7 +49,7 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
   </pre>
 </div>
 
--
+
 
 ## 🌐 Connect With Me
 
@@ -71,7 +71,7 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 </a>
 </p>
 
--
+
 
 # 💻 Technical Skills
 
@@ -85,19 +85,19 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
   <img src="https://img.shields.io/badge/Threat_Hunting-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vulnerability_Assessment-2E7D32?style=for-the-badge" />
 </p>
--
+
 ### ☁️ Cloud & Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux"/>
 </p>
--
+
 ### 💻 Programming & Automation
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,powershell"/>
 </p>
--
+
 ### 🌐 Networking
 
 - TCP/IP
@@ -116,7 +116,7 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 <p>
 <img src="https://skillicons.dev/icons?i=linux,windows"/>
 </p>
--
+
 ### 🛡️ Security Tools
 
 - Microsoft Sentinel
@@ -137,7 +137,7 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 - Kali Linux
 - Autopsy
 - Volatility
--
+
 ### 🔍 Security Operations (SOC)
 
 - SIEM
@@ -149,7 +149,7 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 - Incident Triage
 - Digital Forensics
 - Malware Analysis (Basic)
--
+
 ### 🔒 Identity & Access Management
 
 - Microsoft Entra ID
@@ -158,7 +158,7 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 - Privileged Identity Management (PIM)
 - Role-Based Access Control (RBAC)
 - Single Sign-On (SSO)
--
+
 ### ⚙️ DevSecOps & Automation
 
 - Git
@@ -169,7 +169,7 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 - Python Automation
 - PowerShell Automation
 - Bash Scripting
--
+
 ### 📚 Security Frameworks
 
 - NIST Cybersecurity Framework (CSF)
@@ -179,14 +179,13 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 - ISO/IEC 27001
 - Zero Trust Architecture
 - Cyber Kill Chain
--
+
 ### 🛠️ Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
--
 
 # 🔥 Featured Projects
 
@@ -203,14 +202,14 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 ### ⚙️ Security Automation
 > Automated security tasks and incident response workflows using Python and PowerShell to enhance operational efficiency and reduce response time.
 > 
--
+
 # <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Faizalmohammedn&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Faizalmohammedn&theme=tokyonight&hide_border=true" />
 </p>
--
+
 <p align="center">
 #<h2 align="center">Contribution Graph <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/7.gif" width="35px" height="35px"></h2>
 </p>
@@ -218,7 +217,7 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizalmohammedn&theme=tokyo-night&hide_border=true"/>
 </p>
--
+
 # 🧠 Currently Learning
 
 - 🔐 Cloud Security Engineering (Azure & AWS)
@@ -230,7 +229,7 @@ Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪,
 - ⚙️ Python & PowerShell for Security Automation
 - 📚 MITRE ATT&CK, NIST CSF & Zero Trust Security
 
--
+
 -----------------------------------------------------------
 # 💡 Philosophy
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
