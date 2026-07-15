@@ -1,16 +1,211 @@
 ## Hi there 👋
 
-<!--
-**Faizalmohammedn/Faizalmohammedn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Faizal%20Mohammed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Faizal Mohammed</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+Cybersecurity & Risk Specialist | Cloud, Network & Linux Security | Python/PowerShell Automation
+</h3>
+
+<p align="center">
+automating security operations, and building resilient infrastructures with Cybersecurity, Cloud Security, Network Defense, Linux, and Python/PowerShell.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔐 Passionate about **Cybersecurity, Threat Detection, and Risk Management**
+- ☁️ Specializing in **Cloud Security, Network Security, and Linux Hardening**
+- 🛡️ Experienced in **Vulnerability Assessment, Security Monitoring, and Incident Response**
+- 🐍 Building **Security Automation** solutions using **Python** and **PowerShell**
+- 📚 Continuously expanding my expertise in **Offensive Security, Defensive Security, and Emerging Threats**
+- 🎯 Committed to designing secure, resilient, and scalable infrastructures that protect critical systems and data
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/faizalmohammedn/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Faizalmohammedn" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="faizalmohammedn9@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+# 💻 Technical Skills
+
+### 💻 Programming & Scripting
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,c,java"/>
+</p>
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux"/>
+</p>
+
+### 🌐 Networking & Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows"/>
+</p>
+
+### 🔒 Cybersecurity
+
+- Network Security
+- Cloud Security
+- Risk Assessment
+- Vulnerability Management
+- Security Monitoring
+- Incident Response
+- Identity & Access Management (IAM)
+- Security Operations (SOC)
+- Threat Detection & Analysis
+- Security Compliance
+- Linux Hardening
+- Endpoint Security
+- SIEM
+- Firewall Management
+
+### 🛠️ Security Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+**Security Platforms & Tools**
+
+- Microsoft Defender XDR
+- Microsoft Sentinel
+- Microsoft Entra ID
+- Azure Security Center
+- Nessus
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- OWASP ZAP
+- Splunk
+- Wazuh
+- Kali Linux
+- OpenVAS
+- Autopsy
+- Volatility
+- PowerShell
+- Git
+
+### 📜 Frameworks & Standards
+
+- MITRE ATT&CK
+- NIST Cybersecurity Framework
+- ISO 27001
+- CIS Controls
+- OWASP Top 10
+- Zero Trust Architecture
+
+---
+
+# 🔥 Featured Projects
+
+
+### 🛡️ Security Operations & Threat Detection
+> Developed security monitoring and incident detection solutions using SIEM, log analysis, and threat intelligence to improve organizational security posture.
+
+### 🔍 Vulnerability Assessment & Penetration Testing
+> Conducted vulnerability assessments and security testing using industry-standard tools to identify, analyze, and remediate security weaknesses.
+
+### ☁️ Cloud Security Implementation
+> Designed and secured cloud environments by implementing identity and access management (IAM), security policies, and cloud security best practices.
+
+### ⚙️ Security Automation
+> Automated security tasks and incident response workflows using Python and PowerShell to enhance operational efficiency and reduce response time.
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizalmohammedn&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizalmohammedn&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Faizalmohammedn&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizalmohammedn&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Faizalmohammedn&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+- 🔐 Cloud Security Engineering (Azure & AWS)
+- ☁️ Microsoft Sentinel & Microsoft Defender XDR
+- 📊 SIEM, SOAR & Detection Engineering
+- 🛡️ Identity & Access Management (Microsoft Entra ID)
+- 🔍 Threat Hunting & Incident Response
+- 🐧 Advanced Linux Security & Hardening
+- ⚙️ Python & PowerShell for Security Automation
+- 📚 MITRE ATT&CK, NIST CSF & Zero Trust Security
+
+---
+
+# 💡 Philosophy
+
+> "Security is not a product, but a continuous process of vigilance, resilience, and improvement."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faizalmohammedn&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Faizalmohammedn?style=social" />
+  <img src="https://img.shields.io/github/stars/Faizalmohammedn?affiliations=OWNER&style=social" />
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
