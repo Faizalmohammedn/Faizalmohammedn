@@ -29,6 +29,7 @@ root@nova:nodfetch
 --------------------------------------------------------------
 Username : Faizal Mohammed 🛡️
 WhoamI   : Cybersecurity & Risk Specialist 🔐
+    
 Skills   : 🐍 Python, ⚡ PowerShell, 🐚 Bash, 🖥️ Linux
 Security : 🔍 Threat Detection, 🛡️ Vulnerability Management, 🚨 Incident Response
 Tools    : SIEM 📊, Nmap 🌐, Wireshark 🦈, Burp Suite 🕸️, Microsoft Sentinel🛡️
