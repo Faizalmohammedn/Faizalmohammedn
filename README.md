@@ -35,7 +35,8 @@ Security : 🔍 Threat Detection, 🛡️ Vulnerability Management, 🚨 Inciden
 Tools    : SIEM 📊, Nmap 🌐, Wireshark 🦈, Burp Suite 🕸️, Microsoft Sentinel🛡️
 Loves    : Technology 🚀, Security Research 🔎, Problem Solving 🧩, Learning 📚
 Hobbies  : Coding 👨‍💻, Exploring Linux 🐧, Cybersecurity Labs 🧪, 
-           Open Source Projects 🌍         
+           Open Source Projects 🌍        
+           
 --------------------------------------------------------------
   </pre>
 </div>
