@@ -27,7 +27,6 @@ root@nova:nodfetch
  <img align="left" src="https://github.com/Faizalmohammedn/Faizalmohammedn/blob/main/5.gif" height="450px" width="180px" alt="Profile GIF" />
   <pre style="margin: 0; font-size: 14px;">
 --------------------------------------------------------------
-    
 Username : Faizal Mohammed 🛡️
 WhoamI   : Cybersecurity & Risk Specialist 🔐  
 Skills   : 🐍 Python, ⚡ PowerShell, 🐚 Bash, 🖥️ Linux
